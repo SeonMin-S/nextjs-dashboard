@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="babcf1f6-d3a3-4ac0-a9f9-3e734a7e3bb2" name="Changes" comment="chapter7">
-      <change afterPath="$PROJECT_DIR$/app/dashboard/(overview)/loading.tsx" afterDir="false" />
+    <list default="true" id="babcf1f6-d3a3-4ac0-a9f9-3e734a7e3bb2" name="Changes" comment="chapter12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/(overview)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lib/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\601dl\IdeaProjects\nextjs-dashboard\app\dashboard\invoices" />
+      <recent name="C:\Users\601dl\IdeaProjects\nextjs-dashboard\app\dashboard\invoices\[id]\edit" />
+      <recent name="C:\Users\601dl\IdeaProjects\nextjs-dashboard\app\dashboard\invoices\[id]\ " />
       <recent name="C:\Users\601dl\IdeaProjects\nextjs-dashboard\app\dashboard\(overview)" />
     </key>
   </component>
@@ -108,7 +112,13 @@
       <workItem from="1706506071668" duration="3235000" />
       <workItem from="1706661671352" duration="18703000" />
       <workItem from="1706746519672" duration="4161000" />
-      <workItem from="1707093630331" duration="4385000" />
+      <workItem from="1707093630331" duration="5528000" />
+      <workItem from="1707177819538" duration="12175000" />
+      <workItem from="1707205070070" duration="4279000" />
+      <workItem from="1707265186338" duration="5383000" />
+      <workItem from="1707866912163" duration="691000" />
+      <workItem from="1707955725978" duration="728000" />
+      <workItem from="1708048513493" duration="4411000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <option name="closed" value="true" />
@@ -142,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706683702545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter11">
+      <option name="closed" value="true" />
+      <created>1707122393217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707122393217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chapter12">
+      <option name="closed" value="true" />
+      <created>1707207408668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707207408668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +189,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="chapter4" />
     <MESSAGE value="chapter7" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter7" />
+    <MESSAGE value="chapter11" />
+    <MESSAGE value="chapter12" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter12" />
   </component>
 </project>
